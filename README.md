@@ -10,3 +10,5 @@
 8. In the print statement in the for a,b in pair it should be 3 inside of 2 for correct mathematical statement <br>
 9. The function should be initialised by semicolon while writing it.<br>
 10. pair should be replaced by pairs in the for loop.<br>
+
+## End
